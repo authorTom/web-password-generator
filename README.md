@@ -4,8 +4,9 @@ A simple, web-based password generator that creates secure passwords and passphr
 
 ## Overview
 
-This project is a test project for AI coding, developed using Google's Gemini 2.5 Experimental. It demonstrates the capabilities of AI in creating practical web applications.
-
+This project is a test project for AI coding, developed using Google's Gemini 2.5 Experimental. It demonstrates the capabilities of AI in creating practical web applications. </br>
+</br>
+[Visit demo site](https://web-psword-gen.netlify.app/)
 ## Features
 
 - Generate random secure passwords with customizable:
