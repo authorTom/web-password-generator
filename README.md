@@ -63,3 +63,4 @@ This is a test project for AI coding capabilities, but contributions are welcome
 ## Acknowledgments
 
 - Created using Google's Gemini 2.5 Experimental
+- Built with React.js and Tailwind CSS
