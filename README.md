@@ -1,4 +1,4 @@
-# Password Generator
+# Web App Password Generator
 
 A simple, web-based password generator that creates secure passwords and passphrases with customisable complexity and length.
 
