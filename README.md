@@ -9,7 +9,7 @@ This project is a test project for AI coding, developed using Google's Gemini 2.
 [Visit demo site](https://web-psword-gen.netlify.app/)
 ## Features
 
-- Generate random secure passwords with customizable:
+- Generate random secure passwords with customisable:
   - Length
   - Complexity (include uppercase, lowercase, numbers, special characters)
 - Generate memorable passphrases with options for:
@@ -31,7 +31,7 @@ Visit the website and choose between:
 2. **Passphrase Generator**:
    - Set number of words
    - Choose word separator
-   - Select capitalization style
+   - Select capitalisation style
    - Enable/disable number substitutions
    - Click "Generate" to create a new passphrase
 
